@@ -1,7 +1,7 @@
 name: flutter_apple_wallet_button
 description: "A new Flutter plugin project."
 version: 0.0.1
-homepage:
+homepage: "https://github.com/fen0268/FlutterAppleWalletButton"
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
